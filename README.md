@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# Welcome to the Coursera Capstone Project!
